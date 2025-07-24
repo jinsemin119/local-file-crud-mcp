@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "local-file-crud": {
+      "command": "python",
+      "args": ["C:/Users/jsm/Desktop/work/00.project/01.my-mcp-mk1/LocalCRUD/mcp_server.py"],
+      "env": {
+        "PYTHONPATH": "C:/Users/jsm/Desktop/work/00.project/01.my-mcp-mk1/LocalCRUD"
+      }
+    }
+  }
+} 

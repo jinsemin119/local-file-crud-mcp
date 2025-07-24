@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "local-file-crud": {
+      "command": "powershell",
+      "args": ["-ExecutionPolicy", "Bypass", "-File", "C:/Users/jsm/Desktop/work/00.project/01.my-mcp-mk1/LocalCRUD/run_mcp_for_claude.ps1"]
+    }
+  }
+} 
